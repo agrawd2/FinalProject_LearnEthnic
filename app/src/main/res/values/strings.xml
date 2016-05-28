@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">LearnEthnic</string>
+    <!--<string name="preparations_on_for_a_dear_one_s_wedding">header1</string>-->
+    <string name="header1">preparations on for a dear one\'s wedding?</string>
+    <string name="header2">Learn to drape flawless saree in minutes</string>
+    <string name="button">Get Started!</string>
+    <string name="traditionalSteps">
+    The two mandatory requirements for wearing any kind of  saree are a Petticoat which is a waist to toe garment tied tightly by a drawstring (it should match the base color of the saree as closely as possible) and a tight fit Blouse (preferable of matching color to the saree)\n\n
+
+Step 1: Starting at the navel, tuck the plain end of the saree into the petticoat keeping the entire saree on the left and continue tucking till you take a complete turn. Adjust the lower end of the saree to the height required. Ideally footwear is worn prior to draping the saree so that you drape the saree to the right length.\n\n
+
+Step 2 : Making pleats. From the point where the one complete rotation has ended, start making pleats with the saree. Make about 7 to 10 pleats(depending on the lenght of the saree and length of each pleat) and hold them up together so that they fall straight and even.\n\n
+
+Step 3 : Tuck the pleats into the waist petticoat slightly to the left of the navel, taking care to see that the pleats are turned towards the left.\n\n
+
+Step 4 : The pallu. The remaining portion of the saree must be turned once around the body and then draped over the left shoulder. Arrange the pleats on this part of the saree (you can keep it as single layer or make multiple layers) and then pin them up on the left shoulder to prevent the pallu from falling off.\n\n
+    </string>
+    <string name="MarathiSteps">Maharashtra is known for its cultural activities and saree draping methods at festivals, and the fishermen dressing for women in the past was a saree in 9yards drape, which was draped in a particular style for women to be more actively comfortable for their activities. Today the draping style is not used much but still at wedding events and cultural dressing needs to be styled up in this saree drape. Follow the method to drape a saree in this form.
+    \n\n
+    Step 1. Take the saree end from the top edge, tuck it in the petticoat starting from the right side of your waist across your left waist.\n\n
+
+    Step 2. From the left hand bring the drape around your waist from the back to the centre front tucking it in.\n\n
+
+    Step 3. Now you will need to make 6-8 of 5-6 inches pleats of the remaining drape at the centre and tuck it in the petticoat, facing pleats to the left.\n\n
+
+    Step 4. Bring the open drape across your back to your front from the right side, without tucking it. You can pin up the pleats at the centre for it to be in centre position and tuck the drape edge till your left side waist.\n\n
+
+    Step5. Now hold up the width (pallu) section and make pleats in complete width in 5-6 inches, making sure the border falls on the first pleat to drape it on shoulder.\n\n
+
+    Step6. Hold the pleats in vertical and bring the drape fall from beneath the right armhole, pulling it up towards and across your left shoulder.\n\n
+
+    Step7. Place the pleats properly on your left shoulder by keeping at least a metre length fall down from the shoulder point, and pin it in place to fix it.\n\n
+    </string>
+    <string name="BengaliSteps">
+        Bengali sarees are well famous for the royal religious look, depicting the royal ethnic look of their Bengali culture. Sarees in white and red border is the origin in the culture of Bengali puja rituals. Heavy sarees with silk woven motifs and border look are highlighted by this drape. There are no lower drape pleats in this saree.\n\n
+
+        Step1. The basic step of draping from bringing saree wrapped around from right to left to centre before taking the pleats, tuck it in the petticoat.
+        \n\n
+
+        Step2. Then take hold of the open edge tuck it in the waist till left waist, then tilt it and bring it to front right waist by tucking it.
+        \n\n
+
+        Step3. Repeat the phase of tilting it again, bringing it across left waist from front tuck at waist and again tilt and bring back to right side waist from front and tuck.
+        \n\n
+
+        Step4. Now pick up the width section and make pleats of the whole width in 5-6inches where border comes on front and first pleat. Pin it in position form falling off.
+        \n\n
+
+        Step5. Holding pleats vertical throw the pleated drape on your left shoulder front to back in all possible length hanging at back.
+        \n\n
+
+        Step6. Now hold the first pleat edge, spreading it across your back to the right side, bringing the corner in front under your right armhole to the top of your right shoulder falling it back on the right shoulder. A tassel or hanging is attached to the corner and left in position.
+
+    </string>
+    <string name="GujaratiSteps">
+        In Gujarat at most wedding events, women dress up in the traditional look in wearing their own origin draping style of saree. Also known as the siddha palla saree drape as the saree pallu comes in the front to highlight the look by extending it covering the whole front bodice.
+        \n\n
+
+        Step1. The basic style steps of draping from beginning to the till the pleats taken and tucked in to the centre petticoat facing the left.
+        \n\n
+
+        Step2. Then take the width section of the end drape and make pleats of the whole width in 5-6 inches, gather them firmly with the top border as the first pleat.
+        \n\n
+
+        Step3. Hold the pleats in vertical and bring them around your back waist from left side to the top right back shoulder.
+        \n\n
+
+        Step4. Putting the pleats from right shoulder back to fall front in a way which the pleats open to the left hand side, on the right front bodice in a length less than a metre.
+        \n\n
+
+        Step5. Tuck the pleats at the shoulder point with a pin to fix it, pick up the first border edge and pull it across your left side taking it under the left armhole and tuck it to your left back waist.
+
+    </string>
+    <string name="TamilSteps">
+        This is the drape which was described on the top section showing the basic saree drape. This saree draping is a type for working women as it’s comfortable. The nivi style or basic saree drape is widely used not only for work place but also draped for parties and occasions in heavy sarees giving a sophisticated look.\n\n
+
+        Step1. Carrying the pallu pleats in well pile and pinned on the left shoulder and left hanging back.
+        \n\n
+
+        Step2. The saree front drape going across the shoulder can be adjusted in either keeping pleats in 5-6 inches in basic look, or smaller pleats 3 inches in narrow look, or also 8-9 inches to cover the bodice comfortably.
+
+    </string>
+</resources>

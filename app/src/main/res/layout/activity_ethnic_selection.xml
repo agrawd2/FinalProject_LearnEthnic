@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F48FB1"
+    android:orientation="vertical"
+    tools:context="com.studyjam.android.learnethnic.EthnicSelection">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#F48FB1"
+        android:fontFamily="cursive"
+        android:gravity="center"
+        android:text="Select Ethnicity"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/traditional"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#FFC107"
+        android:fontFamily="cursive"
+        android:onClick="teach"
+        android:text="traditional"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/marathi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#FF8A65"
+        android:fontFamily="cursive"
+        android:onClick="teach"
+        android:text="Marathi"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/gujarati"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#FFECB3"
+        android:fontFamily="cursive"
+        android:onClick="teach"
+        android:text="gujarati"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/tamil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#AFB42B"
+        android:fontFamily="cursive"
+        android:onClick="teach"
+        android:text="Tamil"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/bengali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:height="0dp"
+        android:background="#00BFA5"
+        android:fontFamily="cursive"
+        android:onClick="teach"
+        android:text="bengali"
+        android:textColor="#4A148C"
+        android:textSize="44sp"
+        android:textStyle="italic" />
+</LinearLayout>
